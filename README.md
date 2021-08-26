@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kido1611
 - 👀 I’m interested in Software Developer, Embedded System, Robotics, and many more
 
-Currently, you also can find me on IG [@abd_uzzy](https://instagram.com/abd_uzzy)
+<!-- Currently, you also can find me on IG [@abd_uzzy](https://instagram.com/abd_uzzy) -->
 
 [![kido1611's GitHub stats](https://github-readme-stats.vercel.app/api?username=kido1611&count_private=true&show_icons=true&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 
